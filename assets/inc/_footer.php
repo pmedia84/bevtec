@@ -19,7 +19,6 @@
                         <li><a href="about">About Us</a></li>
                         <li><a href="contact">Contact Us</a></li>
                         <li><a href="privacy">Privacy Policy</a></li>
-                        <li></li>
                     </ul>
                 </div>
             </div>
@@ -56,8 +55,7 @@
     <div class="cookie-text">
         <h2 class="cookie-text-title">Our Cookie Policy</h2>
         <p class="mb-1">Our websites uses cookies to ensure that we give you the best experience while visiting us. </p>
-        <p class="mb-1">By closing this message and continuing to browse our website, you are agreeing to our cookie policy.You can find out more in our <a href="privacy">Privacy Policy</a></p><br>
-
+        <p class="mb-1">By closing this message and continuing to browse our website, you are agreeing to our cookie policy.You can find out more in our <a href="privacy">Privacy Policy</a></p>
     </div>
   <button type="button" class="btn-close accept-cookies" data-bs-dismiss="alert" aria-label="Close"></button>
 </div>
