@@ -30,7 +30,7 @@ $meta_desc = "Get in touch with Bevtec Ltd";
                 <div class="col-md-6">
                     <h3>Have a question?</h3>
                     <p>Got a question about our services or a general enquiry? The simplest way to get in touch with us is via our contact form. Alternatively, you can use the contact details on this page to reach out to us.</p>
-                    <form data-bss-recipient="a8960c025b55ed7d5492bb8b21b7dd81">
+                    <form data-bss-recipient="9e823b6d047219151639c93e9d6c75cb">
                         <div class="input-group mb-3"><span class="input-group-text"><svg xmlns="http://www.w3.org/2000/svg" viewBox="-32 0 512 512" width="1em" height="1em" fill="currentColor">
                                     <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. -->
                                     <path d="M304 128a80 80 0 1 0 -160 0 80 80 0 1 0 160 0zM96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM49.3 464H398.7c-8.9-63.3-63.3-112-129-112H178.3c-65.7 0-120.1 48.7-129 112zM0 482.3C0 383.8 79.8 304 178.3 304h91.4C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7H29.7C13.3 512 0 498.7 0 482.3z"></path>
