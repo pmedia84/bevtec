@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="text-muted d-flex flex-column justify-content-between align-items-start flex-sm-row align-items-lg-center pt-3">
-                <p class="mb-0">Copyright © 2024 Bevtec Ltd</p><a class="mb-0" href="https://www.parrotmedia.co.uk" target="_blank">
+                <p class="mb-0">Copyright © <?=date("Y");?> Bevtec Ltd</p><a class="mb-0" href="https://www.parrotmedia.co.uk" target="_blank">
                     <p class="mb-0">Website design by Parrot Media</p>
                 </a>
             </div>
