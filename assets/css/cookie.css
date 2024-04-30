@@ -1,0 +1,43 @@
+.cookie-overlay {
+      position: fixed;
+      bottom: 1rem;
+      left: 1rem;
+      background: hsl(0, 0%, 94%);
+      padding: 2rem;
+      z-index: 2051;
+      font-size: 14px;
+      border-radius: 5px;
+      max-width:400px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      
+    }
+    .cookie-overlay  a{
+      text-decoration: underline;
+    }
+
+   
+  
+  .cookie-overlay-icon{
+    display: grid;
+    place-items: center;
+  }
+    .cookie-text{
+     font-size: 1rem;
+     line-height: 1.7;
+    }
+    .cookie-text p{
+     color:hsl(43, 45%, 20%);
+    }
+   .cookie-text h2{
+     text-align: center;
+     color: hsl(43, 49%, 25%);
+    }
+    
+      
+    
+  
+ 
+  
+  
+    
+  

@@ -28,4 +28,6 @@
 <link rel="icon" type="image/png" sizes="512x512" href="assets/img/android-chrome-512x512.png">
 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway&amp;display=swap">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="assets/css/styles.min.css">
+<link rel="stylesheet" href="assets/css/cookie.css">
