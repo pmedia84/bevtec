@@ -22,7 +22,7 @@ $meta_desc = "Providing engineering support to the beverage industry. We offer s
                         <div class="col-md-7 col-xl-7 offset-md-2">
                             <div class="hero-banner">
                                 <h1 class="display-5 text-uppercase fw-bold">BEVTEC Ltd</h1>
-                                <p>Specialised engineering support to the beverage industry</p><a class="btn btn-primary btn-lg me-2" role="button" href="contact.html">Contact Us</a>
+                                <p>Specialised engineering support to the beverage industry</p><a class="btn btn-primary btn-lg me-2" role="button" href="contact">Contact Us</a>
                             </div>
                         </div>
                     </div>
