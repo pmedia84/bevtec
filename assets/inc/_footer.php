@@ -29,7 +29,7 @@
             </div>
         </div>
 
-<div class="alert alert-warning alert-dismissible fade  cookie-overlay" role="alert">
+<div class="alert alert-warning alert-dismissible fade  show cookie-overlay d-none" role="alert">
 <div class="cookie-overlay-icon">
         <svg width="125" height="125" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g clip-path="url(#clip0_109_28)">
