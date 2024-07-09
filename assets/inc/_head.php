@@ -13,7 +13,7 @@
         "@context": "http://schema.org",
         "@type": "LocalBusiness",
         "name": "Bevtec Ltd",
-        "description": "Specialised engineering support to the beverage industry. We are based in Long Sutton, Lincolnshire. Our services include: shift cover, specialist training, project management and many more."
+        "description": "Specialised engineering support to the beverage industry. We are based in Long Sutton, Lincolnshire. Our services include: shift cover, specialist training, project management and many more.",
         "url": "https://www.bevtecltd.com",
         "telephone": "07881 782704",
         "openingHours": [
