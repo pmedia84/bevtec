@@ -18,7 +18,7 @@
         "telephone": "07881 782704",
         "openingHours": [
             "Mo-fr 09:00-17:00"
-        ],
+        ]
 
     }
 </script>
