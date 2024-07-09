@@ -84,7 +84,7 @@ $meta_desc = "Find out Bevtec ltd and our specialist engineering support for the
                     <h2 class="fw-bold mb-2">Find out how we can help your business!</h2>
                     <p class="mb-0 lead">Get in touch with us to find out more about our business and how over 25 years of experience will benefit your business.</p>
                 </div>
-                <div class="my-2" style="max-width: 100%;"><a class="btn fs-5 py-2 px-4 btn-primary" role="button" href="contact.html">Contact Us</a></div>
+                <div class="my-2" style="max-width: 100%;"><a class="btn fs-5 py-2 px-4 btn-primary" role="button" href="contact">Contact Us</a></div>
             </div>
         </div>
     </section>
