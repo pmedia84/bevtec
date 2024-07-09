@@ -18,7 +18,11 @@
         "telephone": "07881 782704",
         "openingHours": [
             "Mo-fr 09:00-17:00"
-        ]
+        ],
+        "keywords": [
+            "Engineering support, Beverage industry, shift coverShift cover, Specialist training, Overhauls, Installation services, Project management,CDM management,Fabrication services,Electrical services,Modular maintenance packages"
+        ],
+        "logo":"https://www.bevtecltd.com/assets/img/bevtec-logo.png"
 
     }
 </script>
